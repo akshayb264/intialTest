@@ -14,5 +14,5 @@ Getting Started With Node.js --- basic fetch from server
 
 4) Need https://github.com/felixge/node-mysql/ in npm 
 
-5) In testserver.js mention the required User and Password
+5) In testNodeserver.js mention the required User and Password
 
